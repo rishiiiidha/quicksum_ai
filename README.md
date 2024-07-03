@@ -1,1 +1,1 @@
-# quicksum_ai
+# QuickSum AI
